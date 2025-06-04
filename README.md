@@ -47,15 +47,21 @@ python student_record.py
 2. View Students
 3. Search Student
 4. Exit
+ <br>
 Enter choice: 1
+<br>
 Enter name: Shruthi
+<br>
 Enter roll number: 1001
+<br>
 Enter marks: 85
+<br>
 Student added successfully!
 <br>
 📁 Project Structure
 <br>
 student-record-system/
+<br>
 ├── student_record.py
 └── README.md
 <br>
