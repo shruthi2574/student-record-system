@@ -41,6 +41,7 @@ Built for practice and learning file handling, loops, and basic Python programmi
    cd student-record-system
 2.Run the Python file:
 python student_record.py
+<br>
 💡 Example Output
 1. Add Student
 2. View Students
@@ -51,10 +52,12 @@ Enter name: Shruthi
 Enter roll number: 1001
 Enter marks: 85
 Student added successfully!
+<br>
 📁 Project Structure
 student-record-system/
 ├── student_record.py
 └── README.md
+<br>
 🙋‍♀️ Author
 Gugulothu Shruthi
 B.Tech,CSE—Narayanamma Institute of Technology
