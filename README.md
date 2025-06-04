@@ -54,11 +54,15 @@ Enter marks: 85
 Student added successfully!
 <br>
 📁 Project Structure
+<br>
 student-record-system/
 ├── student_record.py
 └── README.md
 <br>
 🙋‍♀️ Author
+<br>
 Gugulothu Shruthi
+<br>
 B.Tech,CSE—Narayanamma Institute of Technology
+<br>
 ✉️ gugulothushruthi@gmail.com
