@@ -10,8 +10,8 @@ Built for practice and learning file handling, loops, and basic Python programmi
 - ➕ Add new student records  
 - 📋 View all stored records  
 - 🔍 Search student by name or roll number  
-- 🗑️ (Optional) Delete or update records  
-- 💾 Data stored in a local file (optional)
+- 🗑️ Delete or update records  
+- 💾 Data stored in a local file 
 
 ---
 
