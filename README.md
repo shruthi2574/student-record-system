@@ -63,8 +63,10 @@ Student added successfully!
 student-record-system/
 <br>
 ├── student_record.py
+<br>
 └── README.md
 <br>
+
 🙋‍♀️ Author
 <br>
 Gugulothu Shruthi
