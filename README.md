@@ -41,12 +41,12 @@ Built for practice and learning file handling, loops, and basic Python programmi
    cd student-record-system
 2.Run the Python file:
 python student_record.py
-<br>
-💡 Example Output
+##💡 Example Output
 1. Add Student
 2. View Students
 3. Search Student
 4. Exit
+<br>
 Enter choice: 1
 <br>
 Enter name: Shruthi
@@ -57,7 +57,7 @@ Enter marks: 85
 <br>
 Student added successfully!
 <br>
-📁 Project Structure
+##📁 Project Structure
 <br>
 student-record-system/
 <br>
@@ -65,8 +65,7 @@ student-record-system/
 <br>
 └── README.md
 <br>
-
-🙋‍♀️ Author
+##🙋‍♀️ Author
 <br>
 Gugulothu Shruthi
 <br>
