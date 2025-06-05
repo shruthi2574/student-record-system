@@ -47,7 +47,6 @@ python student_record.py
 2. View Students
 3. Search Student
 4. Exit
- <br>
 Enter choice: 1
 <br>
 Enter name: Shruthi
